@@ -31,6 +31,6 @@
 ### 7 Main_Menu:
 ![7](https://github.com/Mirabird/Unreal_Interactive_walk/blob/Blueprints/Screenshots/BP_MainMenuPawn.png?raw=true)
 
-### 8 Main_Menu:
+### 8 Room_Door:
 ![8](https://github.com/Mirabird/Unreal_Interactive_walk/blob/Blueprints/Screenshots/BP_RoomDoor.png?raw=true)
 
