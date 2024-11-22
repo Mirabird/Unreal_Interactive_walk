@@ -11,4 +11,4 @@
 ## 🖼 Blueprints screenshots fron the project:
 
 ### 1
-![1](https://github.com/Mirabird/Unreal_Interactive_walk/blob/UE5_interactive/Camera_21.0147.png?raw=true)
+![1](https://github.com/Mirabird/Unreal_Interactive_walk/blob/Blueprints/Screenshots/BP_BackDoor_1.png?raw=true)
