@@ -7,5 +7,7 @@
 [Смотреть видео на Vimeo](https://vimeo.com/1030253221/8dd1b7b3d1?share=copy)
 
 ## 🖼 Rendered views
-### View 1 
-![Экстерьер1]( )
+### Exterior View 1 
+![Видй](https://github.com/Mirabird/Unreal_Interactive_walk/blob/UE5_interactive/Camera_0.0067.png?raw=true)
+
+### Exterior View 2 
