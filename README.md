@@ -15,7 +15,7 @@
 ![Вид2](https://github.com/Mirabird/Unreal_Interactive_walk/blob/UE5_interactive/Camera_0.0067.png?raw=true)
 
 ### Exterior View 3 
-![Вид3](https://github.com/Mirabird/Unreal_Interactive_walk/blob/UE5_interactive/Camera_7.0147.png?raw=true)
+![Вид3](https://github.com/Mirabird/Unreal_Interactive_walk/blob/UE5_interactive/Camera_4.0145.png?raw=true)
 
 ### Exterior View 4
 ![Вид4](https://github.com/Mirabird/Unreal_Interactive_walk/blob/UE5_interactive/Camera_0.0146.png?raw=true)
@@ -34,6 +34,11 @@
 
 ### Exterior View 9
 ![Вид9](https://github.com/Mirabird/Unreal_Interactive_walk/blob/UE5_interactive/Camera_5.0042.png?raw=true)
+
+### Exterior View 10
+![Вид10](https://github.com/Mirabird/Unreal_Interactive_walk/blob/UE5_interactive/Camera_4.0065.png?raw=true)
+
+
 
 
 
