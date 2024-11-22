@@ -1,5 +1,7 @@
  # Virtual Walkthrough on Unreal Engine
 
-![Unreal Engine Logo](https://upload.wikimedia.org/wikipedia/commons/a/a0/Unreal_Engine_Logo.svg)
-
 ## 📝 Описание проекта
+**Virtual Walkthrough** — это проект, созданный на Unreal Engine, который позволяет пользователям исследовать 3D-пространство в режиме реального времени.  
+
+### 📽 Превью
+[![Watch the video]
