@@ -56,4 +56,8 @@
 ### Interior View 16
 ![Вид16](https://github.com/Mirabird/Unreal_Interactive_walk/blob/UE5_interactive/Camera_16.0005.png?raw=true)
 
+### Interior View 17
+![Вид17](https://github.com/Mirabird/Unreal_Interactive_walk/blob/UE5_interactive/Camera_14.0015.png?raw=true)
+
+
 
